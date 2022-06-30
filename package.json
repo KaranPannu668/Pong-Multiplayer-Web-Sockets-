@@ -1,0 +1,22 @@
+{
+  "name": "multiplayer-pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaranPannu668/Pong-Multiplayer-Web-Sockets-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaranPannu668/Pong-Multiplayer-Web-Sockets-/issues"
+  },
+  "homepage": "https://github.com/KaranPannu668/Pong-Multiplayer-Web-Sockets-#readme",
+  "dependencies": {
+    "socket.io": "^4.5.1"
+  }
+}
